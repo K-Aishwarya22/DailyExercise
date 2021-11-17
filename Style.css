@@ -1,0 +1,78 @@
+
+#home{
+
+    color:rgb(59, 59, 230);
+    visibility: visible;
+
+}
+h1{
+    color: darkblue;
+    font-weight: bold;
+    
+
+}
+.nav{
+
+    color: rgb(117, 98, 187);
+
+}
+
+.rome{
+
+    color:rgb(60, 58, 88);
+
+}
+
+div{
+
+    margin: 20px;
+
+    padding: 20px;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: normal;
+}
+a{
+
+    text-decoration: none;
+
+    color: crimson;
+
+    font-size: 40px;
+
+}
+
+a:visited{
+
+    color:black;
+
+}
+
+a:hover{
+
+    color:brown;
+
+    font-size: 40px;
+
+}
+
+
+
+button{
+
+    padding:8px;
+
+    background-color: coral;
+
+    border:none;
+
+    border-radius: 10px;
+
+    font-size: 6px;
+
+    cursor: pointer;
+
+}
